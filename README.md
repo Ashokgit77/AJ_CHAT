@@ -1,6 +1,6 @@
 <h1>AJ CHAT </h1>
 
-#### <b>Project Description </b>
+<h3><b>Project Description </b></h3>
    This project presents the development and implementation of a chatbot integrated with a prompt and replay 
 API. The chatbot serves as a versatile tool for engaging users in conversational interactions, providing 
 guided prompts and predefined replies to facilitate seamless communication. Leveraging contextual 
